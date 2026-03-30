@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@700&family=Poppins:wght@400;600&display=swap");
+.font-title {
+  font-family: "Merriweather", serif;
+}
+.font-body {
+  font-family: "Poppins", sans-serif;
+}
